@@ -78,8 +78,7 @@ Die fertige App kann nun über den link:
 > https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q
  geteilt werden
  
- iphonescreenshotapplab.PNG
- 
+![](https://github.com/thaomipham/CranberryVodka/blob/master/iphonescreenshotapplab.PNG) 
 ### Bugs
 
 Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
