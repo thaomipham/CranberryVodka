@@ -20,6 +20,9 @@ Code.org® ist eine non-profitable Organisation, die es sich zur Ausgabe gemacht
 
 Die benutzte Sprache ist JavaScript, welche zu *Blöcken* (aka: blocks) programmiert wurden, wodurch die angehenden Programmierer nicht viel Erfahrung mir JavaScrip haben müsen oder mit dem Programmieren an sich, da man weniger fehler mit der Blockprogrammierung macht. 
 
+
+
+Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine [App](https://code.org/educate/applab) zu erstellen 
 __________________
 
 ## App-Konzept
@@ -71,7 +74,11 @@ _____________
 
 ### Fertige App
 
-
+Die fertige App kann nun über den link: 
+> https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q
+ geteilt werden
+ 
+ 
 ### Bugs
 
 Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
