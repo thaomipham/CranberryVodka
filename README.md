@@ -36,18 +36,21 @@ Bei meiner App [CranberryVodka](https://studio.code.org/projects/applab/fE2MZErt
 
 _________
 
-## Probleme
+## Versionen
 
-Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der *orders* und *drinks*. 
+Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der *orders* und *drinks*, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.
 
 ###Version 1
 
-Zuerst wurden *screens* mit den *orders* erstellt. Beim Klicken wird der User auf den nächsten *screen* geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen *click*, *setscreen** 
+Zuerst wurden *screens* mit den *orders* erstellt. Beim Klicken wird der User auf den nächsten *screen* geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen *click*, *setscreen*. Dadurch musste man, um eine neue *order* hinzuzufügen, einen neuen screen erstellen und manuell wieder ein *event* erstellen. 
 
 ![](https://github.com/thaomipham/CranberryVodka/blob/master/Screenshot%202016-11-27%2021.28.01.png)
 
 ###Version 2
 
+Die *screens* wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wurde die Liste in der festgelegten Reihenfolge abgelaufen und man musste einen neuen *screen* erstellen und diese in die Liste einfügen.  
+
+![](https://github.com/thaomipham/CranberryVodka/blob/master/Screenshot%202016-11-27%2021.32.19.png)
 
 ______
 
@@ -81,12 +84,14 @@ _____________
 ### Fertige App
 
 Die fertige App kann nun über den link: 
-> https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q
+'https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q'
  geteilt werden
  
-![](https://github.com/thaomipham/CranberryVodka/blob/master/iphonescreenshotapplab.PNG) 
+Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu [Code.org®](https://studio.code.org/) weiter. 
 
-Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu [Code.org®](https://studio.code.org/) weiter.
+Um die App auf das smartphone zu laden, muss man diese zu *home screen* hinzuzufügen.
+
+![](https://github.com/thaomipham/CranberryVodka/blob/master/iphonescreenshotapplab.PNG) 
 
 ####Bugs
 
