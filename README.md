@@ -107,5 +107,5 @@ Zudem können "random" wieder aus der liste *orders* gezogen werden, wodurch die
 
 > Die Liste könnte mehr *orders* erhalten und die Chancen, dass die selbe "random" gezogen wird, ist dadurch kleiner(?) 
 ______
-Diese App wurde erstellt von Thao Mi Pham, 12 ab, im Rahmen des Informatikunterrichts an der Stormarnschule bei Herrn Buhl im Jahre 2016.
+<Diese App wurde erstellt von Thao Mi Pham, 12 ab, im Rahmen des Informatikunterrichts an der Stormarnschule bei Herrn Buhl im Jahre 2016.
  
