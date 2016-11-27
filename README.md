@@ -8,6 +8,7 @@
   1. Applab
   2. Probleme
   3. Versionen
+  4. Endresultate und Probleme
   
   
 
@@ -58,4 +59,25 @@ die id die er raussuchen soll entspricht random
 
 i: schleife eine variable die die lämge der durchläufe definiert
 random oben in der funktion definiert: bleibt für gametex und background color gleich
+
+
+
+
+
+_____________
+
+
+## Endesultate
+
+### Fertige App
+
+
+### Bugs
+
+Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
+
+
+
+
+
 
