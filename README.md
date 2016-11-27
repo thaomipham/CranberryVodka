@@ -16,13 +16,18 @@ ___________________
 
 ## Code.org®
 
-Code.org® ist eine non-profitable Organisation, die es sich zur Ausgabe gemacht hat, jedem Schüler die Möglichkeit zu geben Informatik-Unterricht zu erhalten. Dies ist durch Sponsoren wie Microsoft, Facebook, Google oder auch Einzelspendern ermöglicht.
+Code.org® ist eine non-profitable Organisation, die es sich zur Ausgabe gemacht hat, jedem Schüler die Möglichkeit zu geben Informatik-Unterricht zu erhalten. Dies ist seit dem Start in 2013 durch Sponsoren wie Microsoft, Facebook, Google oder auch Einzelspendern ermöglicht worden. 
 
 Die benutzte Sprache ist JavaScript, welche zu *Blöcken* (aka: blocks) programmiert wurden, wodurch die angehenden Programmierer nicht viel Erfahrung mir JavaScrip haben müsen oder mit dem Programmieren an sich, da man weniger fehler mit der Blockprogrammierung macht. 
 
 
 
 Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine [App](https://code.org/educate/applab) zu erstellen 
+
+
+
+
+![](https://github.com/thaomipham/CranberryVodka/blob/master/Screenshot%202016-11-27%2019.32.17.png)
 __________________
 
 ## App-Konzept
@@ -83,7 +88,6 @@ Die fertige App kann nun über den link:
 
 Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
 
-![](https://www.dropbox.com/s/xno1612o2zgxsni/Screenshot%202016-11-27%2019.32.17.png?dl=0)
 
 
 
