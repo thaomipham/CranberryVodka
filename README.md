@@ -43,6 +43,12 @@ Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meis
 ###Version 1
 
 Zuerst wurden *screens* mit den *orders* erstellt. Beim Klicken wird der User auf den nächsten *screen* geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen *click*, *setscreen** 
+
+![](https://github.com/thaomipham/CranberryVodka/blob/master/Screenshot%202016-11-27%2021.28.01.png)
+
+###Version 2
+
+
 ______
 
 ## Programmierung
