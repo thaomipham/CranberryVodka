@@ -78,6 +78,7 @@ Die fertige App kann nun über den link:
 > https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q
  geteilt werden
  
+ iphonescreenshotapplab.PNG
  
 ### Bugs
 
