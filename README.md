@@ -110,4 +110,6 @@ Zudem können "random" wieder aus der liste *orders* gezogen werden, wodurch die
 
 ______
 Diese App wurde erstellt von Thao Mi Pham, 12 ab, im Rahmen des Informatikunterrichts an der Stormarnschule bei Herrn Buhl im Jahre 2016.
+
+> App is being used by Thao Mi Pham and her friends at parties :P
  
