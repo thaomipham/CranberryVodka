@@ -83,7 +83,7 @@ Die fertige App kann nun über den link:
 
 Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
 
-
+![](https://www.dropbox.com/s/xno1612o2zgxsni/Screenshot%202016-11-27%2019.32.17.png?dl=0)
 
 
 
