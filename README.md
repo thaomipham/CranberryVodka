@@ -3,8 +3,10 @@
 ## Inhaltsverzeichnis
 
 - Applab von Code.org
-- App- Konzept
+- App-Konzept
+- Versionen
 - Programmierung
+- Finale App
   1. Bugs
   
   
@@ -19,8 +21,12 @@ Die benutzte Sprache ist JavaScript, welche zu *Blöcken* (aka: blocks) programm
 
 
 
-Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine [App](https://code.org/educate/applab) zu erstellen 
+Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine [App](https://code.org/educate/applab) zu erstellen.
 
+Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: *Code*, *Design* und *Data*.
+
+*Code* wird zum Programmieren der App genutzt, während Design die *screens* erstellt und bei *Data* Listen erstellt werden können. 
+Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.
 
 
 
@@ -79,12 +85,10 @@ Beim Klicken des Bildes wurde nicht nur die Seite gewechselt, sondern auch die F
 _____________
 
 
-## Endesultate
-
-### Fertige App
+## Finale App
 
 Die fertige App kann nun über den link: 
-'https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q'
+ https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q 
  geteilt werden
  
 Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu [Code.org®](https://studio.code.org/) weiter. 
@@ -95,7 +99,12 @@ Um die App auf das smartphone zu laden, muss man diese zu *home screen* hinzuzuf
 
 ####Bugs
 
-Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen **screens** geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich das ein dünner grauer Rand auf dem Bildschrim zu erkennen ist.
+Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen **screens** geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich, dass ein dünner grauer Rand auf dem Bildschirm zu erkennen ist.
+> Dies könnte eventuell bei Design geändert werden(?) 
+
+Zudem können "random" wieder aus der liste *orders* gezogen werden, wodurch die gleiche *order* nochmals dran kommen kann.
+> Dies könnte eventuell geändert werden, indem die bereits gezogenen *orders* in eine neue Liste verschoben werden und nicht wieder gewählt werden können, jedoch ist die List fest definiert(?)
+> Die Liste könnte mehr *orders* erhalten und die Chancen, dass die selbe "random" gezogen wird, ist dadurch kleiner(?) 
 
 
  
