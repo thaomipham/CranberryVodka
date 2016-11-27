@@ -43,9 +43,12 @@ ______
 ## Orders
 
 - Tesxtfeld über ganzen scrreeen ausgestreckt
-- id ramdom: 1 bis höchste order 1-28(anzahl der orders; vordefinierte maxima)
+- id ramdom: readrecords
 
-wenn click auf gamteext
+-  gibt die ganze liste aus und definiert eine variable: random begrenzt auf 1 bis länge der liste
+
+
+- wenn click auf gamteext
 wird eine random (definiert) gewählt
 er sucht ne ramdom aus der der list order
   
