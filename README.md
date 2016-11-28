@@ -2,18 +2,18 @@
 
 ## Inhaltsverzeichnis
 
-- Applab von Code.org
-- App-Konzept
-- Versionen
-- Programmierung
-- Finale App
-  1. Bugs
+- [Applab von Code.org](#1)
+- [App-Konzept](#2)
+- [Versionen](#3)
+- [Programmierung](#4)
+- [Finale App](#5)
+  1. [Bugs](#6)
   
   
 
 ___________________
 
-## Code.org®
+## Code.org®<a name="#1"></a>
 
 Code.org® ist eine non-profitable Organisation, die es sich zur Ausgabe gemacht hat, jedem Schüler die Möglichkeit zu geben Informatik-Unterricht zu erhalten. Dies ist seit dem Start in 2013 durch Sponsoren wie Microsoft, Facebook, Google oder auch Einzelspendern ermöglicht worden. 
 
@@ -25,24 +25,24 @@ Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, u
 
 Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: *Code*, *Design* und *Data*.
 
-*Code* wird zum Programmieren der App genutzt, während Design die *screens* erstellt und bei *Data* Listen erstellt werden können. 
+*Code* wird zum Programmieren der App genutzt, während *Design* die *screens* erstellt und bei *Data* Listen erstellt werden können. 
 Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.
 
 
 
 ![](https://github.com/thaomipham/CranberryVodka/blob/master/Screenshot%202016-11-27%2019.32.17.png)
+
 __________________
 
-## App-Konzept
+## App-Konzept<a name="#2"></a>
 
 Meine App wurde von der existierenden App ["Picolo"](https://play.google.com/store/apps/details?id=com.picolo.android&hl=de) inspiriert. Bei ["Picolo"](https://play.google.com/store/apps/details?id=com.picolo.android&hl=de) werden die Namen der jeweiligen Spieler eingefügt und personenbezogene Aufgaben werden erstellt. 
 
 Bei meiner App [CranberryVodka](https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q) gibt es *orders* und *drinks*. Die *orders* stehen für Befehle bzw. sind Texte, die den Spielern vorschreiben zu trinken/Schlücke zu verteilen, wenn bestimmte Bedingungen erfüllt wurden. Die *drinks* zeigen Rezepte zu beliebten, ausgewählten Cocktails, welche die Spieler machen können, um diese während des Spiels zu trinken.
 
-
 _________
 
-## Versionen
+## Versionen<a name="#3"></a>
 
 Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der *orders* und *drinks*, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.
 
@@ -60,7 +60,7 @@ Die *screens* wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wur
 
 ______
 
-## Programmierung
+## Programmierung<a name="#4"></a>
 
 Über den Entwurf wurden die 5 *screens* “MAIN”, “GAME”, “DRINKS”,”DRINKPIC” und “NO” grundlegend gestaltet. Alle Buttons und andere Objekte, die permanent vorhanden sind, wurden hier erstellt. Außerdem greift das Programm auf zwei vordefinierte und durch den Nutzer unveränderbare Datenbanken zu. Die erste heißt **“orders”** und beinhaltet drei Spalten “ID”, “text” und “color”, die zweite heißt **“drinks”** und beinhaltet ebenfalls drei Spalten “ID”, “url” und “name”.
 
@@ -87,19 +87,21 @@ Beim Klicken des Bildes wurde nicht nur die Seite gewechselt, sondern auch die F
 _____________
 
 
-## Finale App
+## Finale App<a name="#5"></a>
 
 Die fertige App kann nun über den link: 
  https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q 
  geteilt werden
  
+
 Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu [Code.org®](https://studio.code.org/) weiter. 
 
 Um die App auf das smartphone zu laden, muss man diese zu *home screen* hinzuzufügen.
 
 ![](https://github.com/thaomipham/CranberryVodka/blob/master/iphonescreenshotapplab.PNG) 
 
-####Bugs
+
+####Bugs<a name="#6"></a>
 
 Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen **screens** geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich, dass ein dünner grauer Rand auf dem Bildschirm zu erkennen ist.
 > Dies könnte eventuell bei Design geändert werden(?) 
