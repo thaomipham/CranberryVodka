@@ -5,7 +5,7 @@
 - [Applab von Code.org](#1)
 - [App-Konzept](#2)
 - [Versionen](#3)
-[ - Programmierung](#4)
+- [Programmierung](#4)
 - [Finale App](#5)
   1. [Bugs](#6)
   
